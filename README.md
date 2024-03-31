@@ -15,7 +15,9 @@ Backend: Node.js, Express.js
 
 **Clone the Repository**: Begin by cloning the repository to your local machine:
 
-    
+    ```bash
+    git
+    ```
 
 2. **Navigate to Project Directory**: Move into the project directory:
 
