@@ -15,14 +15,12 @@ Backend: Node.js, Express.js
 
 **Clone the Repository**: Begin by cloning the repository to your local machine:
 
-    ```bash
-    git clone https://github.com/CharudattaGhute/weather-application.git
-    ```
+    
 
 2. **Navigate to Project Directory**: Move into the project directory:
 
     ```bash
-    cd projectone
+    cd public
     ```
 
 3. **Initialize the Project**: Initialize the project and create the `package.json` file:
@@ -36,8 +34,14 @@ Backend: Node.js, Express.js
     ```bash
     npm install express
     ```
-
-
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Acknowledgements
+
+Special thanks to:
+
+- Bootstrap for providing a responsive design framework.
+- Express.js for the backend web framework.
 
 
