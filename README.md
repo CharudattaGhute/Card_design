@@ -10,13 +10,13 @@ Change the color of the displayed car model.
 Responsive design for various screen sizes.
 
 # Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express.js
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
 
 **Clone the Repository**: Begin by cloning the repository to your local machine:
 
     ```bash
-    git
+    git clone https://github.com/CharudattaGhute/Card_design.git
     ```
 
 2. **Navigate to Project Directory**: Move into the project directory:
