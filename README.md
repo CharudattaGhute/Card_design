@@ -42,11 +42,7 @@ Responsive design for various screen sizes.
 
 
 
-
-
-Uploading Screen Recording 2024-04-01 at 12.38.43 PM.mov…
-
-
+https://github.com/CharudattaGhute/Card_design/assets/122104600/ce7322ce-4fbb-4be1-9453-c307e4e42f52
 
 
 
