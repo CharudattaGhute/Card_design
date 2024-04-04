@@ -10,8 +10,8 @@ Change the color of the displayed car model.
 Responsive design for various screen sizes.
 
 # Technologies Used
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express.js
+- Frontend: HTML, CSS, JavaScript.
+- Backend: Node.js, Express.js.
 
 **Clone the Repository**: Begin by cloning the repository to your local machine:
 
