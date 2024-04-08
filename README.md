@@ -1,4 +1,4 @@
-# Card_design
+# Card_Design
 This is a simple website showcasing different car models with the ability to change their colors.
 
 # Description
