@@ -51,7 +51,6 @@ https://github.com/CharudattaGhute/Card_design/assets/122104600/ce7322ce-4fbb-4b
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Acknowledgements
-
 Special thanks to:
 
 - Bootstrap for providing a responsive design framework.
