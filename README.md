@@ -1,5 +1,5 @@
 # Card_Design
-This is a simple website showcasing different car models with the ability to change their colors.
+This is a simple website showcasing different car models with the ability to change their colors and also background colors.
 
 # Description
 The website is built using HTML, CSS, and JavaScript. It utilizes Bootstrap for styling and interactivity. Users can view information about different car models and change their colors with a click of a button.
@@ -54,6 +54,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Special thanks to:
 
 - Bootstrap for providing a responsive design framework.
-- Express.js for the backend web framework.
+- Node.js,Express.js for the backend web framework.
 
 
