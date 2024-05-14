@@ -2,7 +2,7 @@
 This is a simple website showcasing different car models with the ability to change their colors and also background colors.
 
 # Description
-The website is built using HTML, CSS, and JavaScript. It utilizes Bootstrap for styling and interactivity. Users can view information about different car models and change their colors with a click of a button.
+The website is built using HTML, CSS, and JavaScript. It utilizes Bootstrap for styling and interactivity. Users can view information about different car models and change their colors with a click of a button
 
 # Features
 Display information about car models including mileage, fuel efficiency, and price.
